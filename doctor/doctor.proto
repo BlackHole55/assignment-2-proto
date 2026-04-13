@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package doctor;
 
-option go_package = "github.com/BlackHole55/advanced-programming-2/assignment-2/doctor-service/proto;doctorpb";
+option go_package = "github.com/BlackHole55/assignment-2-proto/doctor;doctorpb";
 
 // DoctorService is responsible for managing the lifecycle of doctors within the platform.
 service DoctorService {

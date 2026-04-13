@@ -4,7 +4,7 @@ package appointment;
 
 import "google/protobuf/timestamp.proto";
 
-option go_package = "github.com/BlackHole55/advanced-programming-2/assignment-2/appointment-service/proto;appointmentpb";
+option go_package = "github.com/BlackHole55/assignment-2-proto/appointment/;appointmentpb";
 
 enum Status {
     STATUS_UNSPECIFIED = 0;

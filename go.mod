@@ -1,4 +1,4 @@
-module github.com/BlackHole55/ap-2/assignment-2-proto
+module github.com/BlackHole55/assignment-2-proto
 
 go 1.26.1
 
